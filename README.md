@@ -1,6 +1,8 @@
-# 🦁 콘솔 기반 아기 사자 명단 관리 프로그램
+# 🦁 1주차 - Java 핵심 문법 & 흐름 (콘솔 기반 아기 사자 명단 관리 프로그램)
 
 자바의 핵심 문법인 데이터 타입, 입출력, 조건문, 반복문을 활용하여 제작한 콘솔 기반 명단 관리 프로그램입니다. 프로그램의 가장 기본적인 흐름인 **입력 → 처리 → 출력** 과정을 직접 구현하며 자바의 기초를 다지는 것을 목표로 합니다.
+
+자세한 내용은 PBL 사이트를 참고 하세요. [1주차 - Java 핵심 문법 & 흐름](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481878cbdd66f54b19ce9)
 
 ## 🎯 과제 목표
 
@@ -34,4 +36,4 @@
 
 ---
 
-*이 프로젝트는 [멋쟁이사자처럼(LIKELION) PBL](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481878cbdd66f54b19ce9) 과정을 바탕으로 제작되었습니다.*
+*이 프로젝트는 [멋쟁이사자처럼(LIKELION) PBL](https://likelion-pbl-five.vercel.app/) 과정을 바탕으로 제작되었습니다.*

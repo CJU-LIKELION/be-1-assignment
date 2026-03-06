@@ -34,4 +34,4 @@
 
 ---
 
-*이 프로젝트는 [멋쟁이사자처럼(LIKELION) PBL](https://www.google.com/search?q=https://likelion-pbl-five.vercel.app/) 과정을 바탕으로 제작되었습니다.*
+*이 프로젝트는 [멋쟁이사자처럼(LIKELION) PBL]([https://www.google.com/search?q=https://likelion-pbl-five.vercel.app/](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481878cbdd66f54b19ce9)) 과정을 바탕으로 제작되었습니다.*
